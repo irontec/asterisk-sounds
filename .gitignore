@@ -1,0 +1,4 @@
+debian/ivozprovider-asterisk-sounds
+debian/files
+debian/ivozprovider-asterisk-sounds.debhelper.log
+debian/ivozprovider-asterisk-sounds.substvars

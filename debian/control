@@ -1,0 +1,19 @@
+Source: ivozprovider-asterisk-sounds
+Section: admin
+Priority: optional
+Build-Depends: debhelper
+Standards-Version: 3.9.6
+Maintainer: Irontec OASIS Team <ivozprovider@irontec.com>
+
+Package: ivozprovider-asterisk-sounds
+Architecture: all
+Section: comm
+Priority: optional
+Homepage: http://www.irontec.com
+Description: IVOZ Provider - Asterisk - Basic sounds files (ES)
+ This package include all basic files to make asterisk work.
+ .
+ All sounds are formated in multiple formats (including g729
+ codec format)
+ .
+
