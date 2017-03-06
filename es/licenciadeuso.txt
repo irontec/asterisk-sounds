@@ -1,0 +1,71 @@
+09 de Noviembre de 2007
+
+Versión 1.4
+
+
+Aviso Legal
+------------
+
+Alberto Sagredo Castro (http://www.voipnovatos.es) es el propietario del copyright de los sonidos incorporados en el fichero. Este conjunto de sonidos está licenciado para su uso libre y sin ningún cargo en telefonía incluida la aplicación comercial. La licencia es la "Creative Commons Deed Reconocimiento-CompartirIgual 2.5 Espana" que se puede ver en esta dirección:
+
+http://creativecommons.org/licenses/by-sa/2.5/es/
+
+El desarrollo de este juego de ficheros se realiza de forma conjunta con la comunidad de usuarios de Asterisk, con el fin de conseguir un conjunto de sonidos de calidad profesional apto para su uso particular o comercial.
+
+En adición a las condiciones generales de la licencia "Creative Commons" utilizada, Alberto Sagredo Castro indica de forma expresa que en caso de uso comercial de este paquete de sonidos es obligatorio cumplir las siguientes normas:
+
+- Indicar de forma clara la procedencia del juegos de sonidos, citando a Alberto Sagredo Castro (http://www.voipnovatos.es) como propietario del copyright y notificando de su uso por motivos meramente estadísticos a voces@voipnovatos.es. Se indicará en una página web, todos aquellos sitios que lo hayan notificado. Esto se llevará a cabo en los medios donde se cite el juego de sonidos en castellano.
+- Su uso queda limitado por el acuerdo con los desarrolladores del conjunto de voces, Voces en la Red, S.L., exclusivamente a telefonía.
+- El fichero LEEME.txt y el fichero con la licencia "Creative Commons" han de permanecer en todas las instalaciones, no pudiendo ser eliminados o manipulados.
+
+
+Agradecimientos 
+----------------
+
+Este conjunto de sonidos no habría sido posible sin el aporte económico, aliento e ilusión de los que han realizado donaciones.
+
+
+Instalación
+-----------
+
+Advertencia: la instalación sobreescribe los ficheros que puedan existir en la ruta "/var/lib/asterisk/sounds". Debe realizarse una copia de seguridad previa a la instalación pues los sonidos serán sobreescritos.
+
+Para instalar, ubicarse en el directorio de sonidos de Asterisk (típicamente "/var/lib/asterisk/sounds/") y ejecutar la orden:
+
+$ tar xvzf /ruta_al_fichero/voipnovatos-core-sounds-es-xxxx-1.4
+
+Las voces extras pueden ser instaladas:
+
+$ tar xvzf /ruta_al_fichero/voipnovatos-extra-sounds-es-xxxx-1.4
+
+Colaborar
+----------
+
+Si únicamente desea indicar un error detectado o sugerir una mejora pero no tiene interés en colaborar asiduamente, puede enviar un mensaje a la siguiente dirección de correo electrónico: <voces@voipnovatos.es>.
+
+Agradecemos de antemano su colaboración.
+
+
+Contacto
+--------
+
+Alberto Sagredo Castro
+mailto:voces@voipnovatos.es
+http://www.voipnovatos.es
+Teléfono: 965 99 99 39
+
+
+Datos para contratación de más voces
+-------------------------------------
+
+Con el fin de mantener este conjunto, se ha puesto un botón "Paypal" en http://www.voipnovatos.es, para futuras donaciones. De igual modo se anima a aquellos que contraten más grabaciones a Voces en la Red. S.L. (http://www.vocesenlared.com), que liberen algunas palabras genéricas, con el fin de ir actualizando y mejorando este conjunto de voces.
+
+Aquellos que deseen contratar voces con la misma tonalidad que las existente en este conjunto, deben contactar directamente con Voces en la Red, S.L. por alguno de los medios que se detallan a continuación con asunto "Voces Asterisk":
+
+Voces en la Red, S.L.
+mailto:info@vocesenlared.com
+http://www.vocesenlared.com
+Teléfono: +34 902 877 122
+Fax: +34 902 877 717
+Domicilio: c/ Bravo Murillo, 23, 7oC. 28015. Madrid
+

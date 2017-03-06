@@ -7,18 +7,13 @@ agent-loginok: Agente conectado
 agent-newlocation: Por favor ingrese una nueva extension seguida por la tecla de numero
 agent-pass: Por favor ingrese su contrasena seguida por la tecla de numero
 agent-user: Autenticacion de agente. Por favor ingrese su numero de agente seguido por la tecla de numero
-ascending-2tone: [ascending tones]
 auth-incorrect: Contrasena incorrecta. Por favor ingrese su contrasena seguida por la tecla de numero
 auth-thankyou: Gracias
 beep: [tono simple]
 beeperr: [ tono de error ]
 conf-adminmenu: Por favor marque 1 para habilitar o deshabilitar el modo mudo, 2 para bloquear o desbloquear la conferencia, 3 para expulsar al ultimo usuario, 4 o 6 para aumentar o disminuir el volumen de la conferencia, 7 o 9 para el volumen suyo, u 8 para salir.
-conf-adminmenu-162: Por favor presione uno para activar o desactivar el modo de silencio. Dos para activar o desactivar el candado en la conferencia. Trés para expulsar al último usuario. Cuatro u seis para subir o bajar el volumen de la conferencia. Cinco para extender la conferencia. Siete o nueve para bajar o subir su propio volumen, u ocho para salir.
-conf-adminmenu-18: Por favor presione uno para activar o desactivar el modo mudo personal, dos para bloquear o desbloquear la conferencia, tres para expulsar al último usuario, cuatro o seis para decrementar o incrementar el volumen de la conferencia, cinco para extender la conferencia, siete o nueve para decrementar o incrementar su volumen, u ocho para mas opciones.
-conf-adminmenu-menu8: Presione uno para listar los usuarios de la conferencia, dos para expulsar a todos los usuarios que no son administradores, tres para activar o desactivar el modo mudo para todos los usuarios que no son administradores, cuatro para grabar esta conferencia, u ocho para salir de este menu y regresar a la conferencia.
 conf-enteringno: Entrando a la conferencia numero
 conf-errormenu: Opcion invalida
-conf-extended: La conferencia ha sido extendida.
 conf-getchannel: Por favor ingrese el numero de canal seguido por la tecla de numero.
 conf-getconfno: Por favor ingese el numero de la conferencia seguido por la tecla de numero.
 conf-getpin: Por favor ingrese la clave de entrada para la conferencia.
@@ -32,68 +27,17 @@ conf-locked: La conferencia ha sido bloqueada.
 conf-lockednow: La conferencia ha sido bloqueada.
 conf-muted: Esta usted ahora en modo mudo.
 conf-noempty: Por el momento no hay conferencias vacias.
-conf-nonextended: La conferencia no puede ser extendida.
-conf-now-muted: La conferencia está ahora en modo mudo.
-conf-now-recording: La conferencia está ahora siendo grabada.
-conf-now-unmuted: El modo mudo ha sido desactivado en la conferencia.
 conf-onlyone: Actualmente solo hay otro participante en la conferencia.
 conf-onlyperson: Por el momento, usted es la unica persona en la conferencia.
 conf-otherinparty: Otros participantes en la conferencia.
 conf-placeintoconf: Usted se unira a la conferencia
-conf-roll-callcomplete: Rol de llamadas completo.
 conf-thereare: Actualmente hay
 conf-unlockednow: La conferencia ha sido desbloqueada.
 conf-unmuted: Ha desactivado el modo mudo.
 conf-usermenu: Por favor marque 1 para habilitar o deshabilitar el mudo mudo, 4 o 6 para aumentar o disminuir el volumen de la conferencia, 7 o 9 para el volumen suyo, u 8 para salir.
-conf-usermenu-162: Por favor presione uno para activar o desactivar el modo mudo personal, cuatro o seis para decrementar o incrementar el volumen de la conferencia, cinco para extender la conferencia, siete o nueve para decrementar o incrementar su volumen, u ocho para salir de este menu y regresar a la conferencia.
 conf-userswilljoin: Usuarios se uniran a la conferencia.
 conf-userwilljoin: Usuario se unira a la conferencia.
 conf-waitforleader: La conferencia comenzara cuando llegue el lider.
-confbridge-begin-glorious-a: La conferencia iniciará cuando nuestro glorioso líder llegue.
-confbridge-begin-glorious-b: La conferencia iniciará cuando nuestro glorioso líder llegue.
-confbridge-begin-glorious-c: La conferencia iniciará cuando nuestro glorioso líder llegue.
-confbridge-conf-begin: La conferencia iniciará ahora.
-confbridge-conf-end: La conferencia ha terminado.
-confbridge-dec-list-vol-in: Para reducir el volumen del audio de otros participantes...
-confbridge-dec-list-vol-out: ...para reducir el volumen del audio de otros participantes.
-confbridge-dec-talk-vol-in: Para reducir el volumen de su habla hacia otros participantes...
-confbridge-dec-talk-vol-out: ...para reducir el volumen de su habla hacia otros participantes.
-confbridge-has-joined: ...ha ingresado a la conferencia.
-confbridge-has-left: ...ha dejado la conferencia.
-confbridge-inc-list-vol-in: Para incrementar el volumen del audio de otros participantes...
-confbridge-inc-list-vol-out: ...Para incrementar el volumen del audio de otros participantes...
-confbridge-inc-talk-vol-in: Para incrementar el volumen de su habla hacia otros participantes...
-confbridge-inc-talk-vol-out: ...Para incrementar el volumen de su habla hacia otros participantes.
-confbridge-invalid: Usted ha ingresado una opcion inválida.
-confbridge-join: (beep)
-confbridge-leave-in: Para salir de la conferencia...
-confbridge-leave-out: ...para salir de la conferencia.
-confbridge-lock-extended: ...para bloquear ó desbloquear la conferencia. Cuando una conferencia está bloqueada, solo los administradores pueden entrar.
-confbridge-lock-in: Para bloquear ó desbloquear la conferencia.
-confbridge-lock-no-join: La conferencia está actualmente bloqueada y no se puede ingresar.
-confbridge-lock-out-0: ...para bloquear o desbloquear la conferencia.
-confbridge-locked: La conferencia está ahora bloqueada.
-confbridge-menu-exit-in: Para salir del menú
-confbridge-menu-exit-out: ...para salir del menú.
-confbridge-mute-extended: ...para activar o desactivar el modo mudo. En modo mudo no puedes enviar audio a otros participantes; sin embargo aun escucharas el audio de los otros participantes que no esten en modo mudo.
-confbridge-mute-in: Para activar o desactivar el modo mudo...
-confbridge-mute-out: ...para activar o desactivar el modo mudo.
-confbridge-muted: Usted se encuentra ahora en modo mudo.
-confbridge-only-one: Actualmente hay otro participante en la conferencia.
-confbridge-only-participant: Usted es actualmente el único participante en la conferencia.
-confbridge-participants: ...participantes en la conferencia.
-confbridge-pin-bad: Usted ha introducido demasiados números de identificación personal inválidos.
-confbridge-pin: Por favor ingrese su número de identificación personal seguido de la tecla gato.
-confbridge-remove-last-in: Para expulsar al participante ingresado mas recientemente en la conferencia...
-confbridge-remove-last-out: ...para expulsar al participante ingresado mas recientemente en la conferencia...
-confbridge-removed: Usted ha sido expulsado de la conferencia.
-confbridge-rest-list-vol-in: Para reiniciar el volumen del audio de la conferencia al nivel por defecto.
-confbridge-rest-list-vol-out: ...para reiniciar el volumen del audio de la conferencia al nivel por defeto.
-confbridge-rest-talk-vol-in: Para reiniciar su volumen de habla al nivel por defecto...
-confbridge-rest-talk-vol-out: ...para reiniciar su volumen de habla al nivel por defecto.
-confbridge-there-are: Hay actualmente...
-confbridge-unlocked: La conferencia está ahora desbloqueada.
-confbridge-unmuted: Usted ya no se encuentra en modo mudo.
 demo-abouttotry: Intentare establecer una conexion intra-Asterisk con un servidor de demonstracion localizado en Digium. Para lograr esto, usted ya debe estar conectado a Internet. Por favor espere mientras intento establecer la conexion.
 demo-congrats: Felicidades, usted ha instalado y ejecutado exitosamente su PBX de codigo abierto, Asterisk. Tambien ha instalado una serie de sonidos y archivos de configuracion que le ayudaran a comenzar. Al igual que una PBX normal, usted navegara esta demonstracion tecleando digitos en su telefono. Si esta usando el canal de consola a cambio de un telefono fisico, puede usar los comandos "dial," "answer" y "hangup" para simular su telefono.
 demo-echodone: La prueba del eco ha sido completada.
@@ -104,7 +48,6 @@ demo-moreinfo: Asterisk es una plataforma PBX e IVR de codigo abierto que corre 
 demo-nogo: Lo siento, pero no fue posible crear la conexion al servidor de demostracion en Digium. Puede encontrar informacion util para solucionar el problema en la consola de Asterisk.
 demo-nomatch: Lo siento, pero no hay una correspondencia con esas palabras claves.
 demo-thanks: Hasta luego. Gracias por probar a Asterisk, la PBX de codigo abierto.
-descending-2tone: [descending tones]
 dictate/both_help: Presione el asterisco para pausar o despausar, presione la tecla de numero para entrar a un nuevo de archivo de dictado.
 dictate/enter_filename: Introduzca el nombre numerico del archivo de dictado seguido por la tecla de numero, o presione la tecla de numero para salir.
 dictate/forhelp: Marque 0 para obtener ayuda.
@@ -195,22 +138,12 @@ digits/h-20: vigesimo
 digits/h-2: segundo
 digits/h-30: trigesimo
 digits/h-3: tercero
-digits/h-40: cuadragésimo
 digits/h-4: cuarto
-digits/h-50: quincuagésimo
 digits/h-5: quinto
-digits/h-60: sexagésimo
 digits/h-6: sexto
-digits/h-70: septuagésimo
 digits/h-7: septimo
-digits/h-80: octogésimo
 digits/h-8: octavo
-digits/h-90: nonagésimo
 digits/h-9: noveno
-digits/h-billion: billonésimo
-digits/h-hundred: centésimo
-digits/h-million: millonésimo
-digits/h-thousand: milésimo
 digits/hundred: cient
 digits/million: millon
 digits/millions: millones
@@ -288,7 +221,6 @@ letters/z: z
 minutes: minutos
 pbx-invalid: Lo siento, esa es una extension invalida. Por favor intente de nuevo.
 pbx-invalidpark: Lo siento, no hay llamadas sobre esa extension. Por favor intente otra vez.
-pbx-parkingfailed: El intento de estacionamiento de llamada ha fallado.
 pbx-transfer: Transferencia
 phonetic/9_p: noveno
 phonetic/a_p: Alfa
@@ -328,7 +260,6 @@ privacy-unident: La persona que usted desea llamar no acepta llamadas no identif
 queue-callswaiting: Esperando por un representante.
 queue-holdtime: Tiempo de espera estimado es de
 queue-less-than: menos de
-queue-minute: minuto
 queue-minutes: minutos
 queue-periodic-announce: Todos nuestros representantes se encuentran ocupados, por favor espere y pronto le atenderemos. 
 queue-reporthold: Tiempo de espera
@@ -339,7 +270,6 @@ queue-youarenext: Su llamada es la primera en linea y sera atendida por el proxi
 screen-callee-options: Usted tiene las siguientes opciones: marque 1 si desea comunicarse inmediatamente con la llamada, marque 2 si desea enviar la persona al buzon de mensajes, marque 3 para enviar a esta persona a las opciones de tortura, marque 4 para enviar a esta persona a una opcion cortes de no llamar.
 seconds: segundos
 spy-agent: agente
-spy-dahdi: dahdi
 spy-h323: h-323
 spy-iax2: iax
 spy-iax: iax
@@ -421,7 +351,6 @@ vm-rec-name: Despues del tono diga su nombre y presione la tecla de numero.
 vm-rec-temp: Despues del tono grabe su mensaje provisional y presione la tecla de numero.
 vm-rec-unv: Despues del tono grabe su mensaje de no disponible y presione la tecla de numero.
 vm-received: recibido
-vm-record-prepend: Al escuchar el tono, por favor grabe la introduccion para el mensaje re-enviado. Al terminar, presione el signo de gato.
 vm-reenterpassword: Por favor ingrese su contrasena de nuevo y presione la tecla de numero.
 vm-repeat: Marque 5 para repetir el mensaje
 vm-review: Marque 1 para aceptar esta grabacion, 2 para escucharlo, 3 para volver a grabar su mensaje.
@@ -457,43 +386,3 @@ vm-whichbox: Para dejar un mesaje por favor, entre un numero de buzon.
 vm-work: trabajo
 vm-youhave: Usted tiene
 vm-youhaveno: Usted no tiene
-dir-firstlast: letras del primer nombre o apellido de la persona
-dir-last: letras del apellido de la persona
-dir-multi1: Presione
-dir-multi2: para
-dir-multi3: la extension
-dir-multi9: Presione nueve para mas resultados.
-dir-pls-enter: Por favor presione las primeras
-dir-usingkeypad: 
-dir-welcome: 
-queue-quantity1: Por el momento hay mas de
-queue-quantity2: llamadas en espera
-spy-console: consola
-spy-jingle: jingle
-spy-local: local
-spy-misdn: M I S D N
-spy-mobile: Bluetooth
-spy-nbs: N B S
-spy-unistim: Unistim
-spy-usbradio: Radio U S B
-vm-Cust1: 
-vm-Cust2: 
-vm-Cust3: 
-vm-Cust4: 
-vm-Cust5: 
-vm-duration: La duracion de este mensaje es de
-vm-Family: 
-vm-forward-multiple: Presione uno para mandar este mensaje, o dos para agregar otro recipiente.
-vm-Friends: amigos
-vm-invalid-password: La contrasenia no cumple los requisitos minimos para este correo de voz. Por favor intente de nuevo.
-vm-invalidpassword: contrasena incorrecta. Por favor, intente de nuevo
-vm-marked-nonurgent: El estatus de urgencia ha sido desactivado para este mensaje.
-vm-marked-urgent: Este mensaje ha sido marcado como urgente.
-vm-onefor-full: Presione 1 para escuchar mensajes
-vm-opts-full: Presione 2 para mensajes guardados en otras carpetas.  Presione 3 para grabar un mensaje a otra persona.  Presione 0 para opciones de saludo y contrasena.
-vm-pls-try-again: Por favor intente de nuevo.
-vm-review-nonurgent: Presione 4 para desactivar el estatus de urgencia del mensaje.
-vm-review-urgent: Presione 4 para marcar este mensaje como urgente.
-vm-tmpexists: Hay un saludo temporal a cambio del saludo estandar.
-vm-Urgent: urgente
-vm-Work: trabajo
