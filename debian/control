@@ -3,7 +3,7 @@ Section: admin
 Priority: optional
 Build-Depends: debhelper
 Standards-Version: 3.9.6
-Maintainer: Irontec OASIS Team <ivozprovider@irontec.com>
+Maintainer: Irontec Package Team <packages@irontec.com>
 
 Package: ivozprovider-asterisk-sounds
 Architecture: all
