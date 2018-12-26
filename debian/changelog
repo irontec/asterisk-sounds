@@ -1,8 +1,14 @@
-ivozprovider-asterisk-sounds (2.8~2.8.1) UNRELEASED; urgency=medium
+ivozprovider-asterisk-sounds (2.9~2.0.0) UNRELEASED; urgency=medium
+
+  * Version bump to 2.9.0
+
+ -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 26 Dec 2018 11:05:29 +0100
+
+ivozprovider-asterisk-sounds (2.8~2.8.1) stable; urgency=medium
 
   * Version bump to 2.8.1
 
- -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 28 Nov 2018 16:03:31 +0100
+ -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 26 Dec 2018 11:05:12 +0100
 
 ivozprovider-asterisk-sounds (2.8~2.8.0) stable; urgency=medium
 
