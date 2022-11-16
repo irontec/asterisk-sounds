@@ -1,8 +1,9 @@
-ivozprovider-asterisk-sounds (2.21~2.21.0) UNRELEASED; urgency=medium
+ivozprovider-asterisk-sounds (2.22~2.22.0) UNRELEASED; urgency=medium
 
   * Version bump to 2.21.0
+  * Version bump to 2.22.0
 
- -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 23 Mar 2022 18:05:26 +0200
+ -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 16 Nov 2022 10:52:54 +0100
 
 ivozprovider-asterisk-sounds (2.20~2.20.0) stable; urgency=medium
 
