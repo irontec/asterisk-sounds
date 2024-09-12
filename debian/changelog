@@ -1,4 +1,10 @@
-ivozprovider-asterisk-sounds (4.1~4.1.0) UNRELEASED; urgency=medium
+ivozprovider-asterisk-sounds (4.2~4.2.0) UNRELEASED; urgency=medium
+
+  * Version bump to 4.2
+
+ -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Thu, 12 Sep 2024 13:24:57 +0200
+
+ivozprovider-asterisk-sounds (4.1~4.1.0) unstable; urgency=medium
 
   * Version bump to 4.1
 
